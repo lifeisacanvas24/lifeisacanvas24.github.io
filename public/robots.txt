@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-Allow: /
-Sitemap: http://ec2-16-171-138-200.eu-north-1.compute.amazonaws.com/sitemap.xml
